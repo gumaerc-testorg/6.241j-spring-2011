@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains final exam.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-241j-dynamic-systems-and-control-spring-2011/06b4a1dce336b9dfab14e749cff08ebb_MIT6_241JS11_final.pdf
+file: /media/courses/6-241j-dynamic-systems-and-control-spring-2011/06b4a1dce336b9dfab14e749cff08ebb_MIT6_241JS11_final.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: MIT6_241JS11_final.pdf
 uid: 06b4a1dc-e336-b9df-ab14-e749cff08ebb

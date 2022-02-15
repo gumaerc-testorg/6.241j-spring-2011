@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains solutions for exercises 7.2, 7.3, 10.1, 11.1,
   11.3, 11.4, and 11.5.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-241j-dynamic-systems-and-control-spring-2011/2a3e6c44b272319c6a5411dc3be4c6a4_MIT6_241JS11_assn05_sol.pdf
+file: /media/courses/6-241j-dynamic-systems-and-control-spring-2011/2a3e6c44b272319c6a5411dc3be4c6a4_MIT6_241JS11_assn05_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MIT6_241JS11_assn05_sol.pdf
 uid: 2a3e6c44-b272-319c-6a54-11dc3be4c6a4

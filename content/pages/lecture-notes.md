@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: ee668e05-ff75-8895-0bb1-7bddd4117378
 ---
@@ -231,7 +234,7 @@ Feedback stabilization
 24
 {{< tdclose >}}
 {{< tdopen >}}
-H2 optimization
+H{{< sub "2" >}} optimization
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit6_241js11_lec24))
@@ -243,7 +246,7 @@ H2 optimization
 25
 {{< tdclose >}}
 {{< tdopen >}}
-H∞ optimization
+H{{< sub "∞" >}} optimization
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit6_241js11_lec25))

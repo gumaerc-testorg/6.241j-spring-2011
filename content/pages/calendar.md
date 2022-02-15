@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 715065ca-afbb-069e-6e3a-00598525e9ed
 ---
@@ -289,7 +291,7 @@ Homework 10 due
 23
 {{< tdclose >}}
 {{< tdopen >}}
-H2 optimization
+H{{< sub "2" >}} optimization
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -301,7 +303,7 @@ H2 optimization
 24
 {{< tdclose >}}
 {{< tdopen >}}
-H∞ optimization
+H{{< sub "∞" >}} optimization
 {{< tdclose >}}
 {{< tdopen >}}
 Homework 11 due

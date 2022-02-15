@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: bd44ad36-f5b6-870b-74dd-fff31d2d3017
 ---
@@ -58,7 +61,7 @@ Least squares estimation
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Least squares solution of y = < A, x >
+Least squares solution of y = \< A, x >
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit6_241js11_chap03))
@@ -680,7 +683,7 @@ Optimal control synthesis: problem setup
 23
 {{< tdclose >}}
 {{< tdopen >}}
-H2 optimization
+H{{< sub "2" >}} optimization
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -692,7 +695,7 @@ H2 optimization
 24
 {{< tdclose >}}
 {{< tdopen >}}
-H∞ optimization
+H{{< sub "∞" >}} optimization
 {{< tdclose >}}
 {{< tdopen >}}
  
