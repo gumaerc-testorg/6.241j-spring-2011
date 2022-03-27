@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bd44ad36-f5b6-870b-74dd-fff31d2d3017
 resourcetype: Document
 title: MIT6_241JS11_chap08.pdf
 uid: f5b9d1c7-ca91-9958-6745-0a5ceead5cbb

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 72a3b8f5-976c-1d87-93f4-4979928c33b7
 resourcetype: Document
 title: MIT6_241JS11_final.pdf
 uid: 06b4a1dc-e336-b9df-ab14-e749cff08ebb

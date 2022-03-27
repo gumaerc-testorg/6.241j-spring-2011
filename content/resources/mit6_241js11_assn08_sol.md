@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 56ce52f6-36c6-4ef9-0273-ac63da10d835
 resourcetype: Document
 title: MIT6_241JS11_assn08_sol.pdf
 uid: c1372d88-c2cf-ba88-c519-62f1d7bb6610

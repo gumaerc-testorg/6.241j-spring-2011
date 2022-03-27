@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bd44ad36-f5b6-870b-74dd-fff31d2d3017
 resourcetype: Document
 title: Lectures on Dynamic Systems and Control
 uid: 996025f6-db0d-90b0-0f11-c44fc49b85f9
