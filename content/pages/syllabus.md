@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This syllabus section provides information on course meeting times,
+  objectives, structure, assignments, and notes and texts. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -49,7 +51,7 @@ The course grade will depend on: (a) your involvement in the subject (30%), as e
 Notes and Texts
 ---------------
 
-The course notes are required, and are available in the [Readings]({{< baseurl >}}/pages/readings) section.
+The course notes are required, and are available in the {{% resource_link bd44ad36-f5b6-870b-74dd-fff31d2d3017 "Readings" %}} section.
 
 Other texts that you may wish to examine at some point are:
 

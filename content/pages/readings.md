@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains course notes and a list of reading assignments
+  for each lecture.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -14,7 +16,7 @@ This section contains [course notes](#Course) and a [schedule of readings](#Sche
 
 Course notes are courtesy of Mohammed Dahleh, Munther A. Dahleh, and George Verghese, and are used with permission. Chapters 9, 16 and 23 are not available on MIT OpenCourseWare.
 
-The full set of course notes are also available as one file (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 10.3MB]({{< baseurl >}}/resources/mit6_241js11_textbook)).
+The full set of course notes are also available as one file ({{% resource_link 996025f6-db0d-90b0-0f11-c44fc49b85f9 "PDF - 10.3MB" %}}).
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -40,7 +42,7 @@ FILES
 Linear algebra review
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap01))
+({{% resource_link 5371e2d1-7a12-ccb9-61e5-f86f1b135204 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +54,7 @@ Linear algebra review
 Least squares estimation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap02))
+({{% resource_link 32a900aa-95e0-ad95-fe86-b64b5c6b7690 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +66,7 @@ Least squares estimation
 Least squares solution of y = \< A, x >
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap03))
+({{% resource_link 92942a99-32b2-9c29-e368-c174737390dc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +78,7 @@ Least squares solution of y = \< A, x >
 Matrix norms and singular value decomposition
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap04))
+({{% resource_link 04fddfbc-b1eb-933e-cca8-5dab8bfbb171 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +90,7 @@ Matrix norms and singular value decomposition
 Matrix perturbations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap05))
+({{% resource_link 855766dd-b3a2-2777-d542-5518c0ad51d2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +102,7 @@ Matrix perturbations
 Dynamic models
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap06))
+({{% resource_link 042c2b4a-13e0-c199-6113-084ff601f025 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +114,7 @@ Dynamic models
 State-space models
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap07))
+({{% resource_link 291fd6ea-776b-361f-1fd2-db68f49c42de "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +126,7 @@ State-space models
 Simulation/realization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap08))
+({{% resource_link f5b9d1c7-ca91-9958-6745-0a5ceead5cbb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +150,7 @@ Simulation/realization
 Discrete-time linear state-space models
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap10))
+({{% resource_link bab3ecdb-64ba-f945-acd2-06d8f370167f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +162,7 @@ Discrete-time linear state-space models
 Continuous-time linear state-space models
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap11))
+({{% resource_link 79f1a26e-91a0-5718-1d22-5d2e1ffa0b57 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +174,7 @@ Continuous-time linear state-space models
 Modal decomposition of state-space models
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap12))
+({{% resource_link 0823bbd7-3025-93ca-a272-304158502589 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +186,7 @@ Modal decomposition of state-space models
 Internal (Lyapunov) stability
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap13))
+({{% resource_link 95bf74f6-518e-bb3b-e79d-1748ca6c349c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +198,7 @@ Internal (Lyapunov) stability
 Internal stability for LTI systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap14))
+({{% resource_link 69f0c2bb-4679-9fce-1411-7b510d57cbf0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -208,7 +210,7 @@ Internal stability for LTI systems
 External input-output stability
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap15))
+({{% resource_link 5b744a33-f5db-9b0c-c70d-bc04a9de5706 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -232,7 +234,7 @@ System norms
 Interconnected systems and feedback: well-posedness, stability, and performance
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap17))
+({{% resource_link d66fe63c-fc96-9901-22d0-4f9b725a0d67 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -244,7 +246,7 @@ Interconnected systems and feedback: well-posedness, stability, and performance
 Performance of feedback systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap18))
+({{% resource_link ffd08add-c36b-c0fd-0258-6dd7624d9031 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -256,7 +258,7 @@ Performance of feedback systems
 Robust stability in SISO systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap19))
+({{% resource_link f5ef45e4-68ca-752d-181e-7682a6fe939b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +270,7 @@ Robust stability in SISO systems
 Stability robustness
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap20))
+({{% resource_link 5cc176ef-a842-2c7c-cdb0-c96a2a31e1bc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -280,7 +282,7 @@ Stability robustness
 Robust performance and introduction to the structured singular value function
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap21))
+({{% resource_link e93427e1-e654-f3c9-fb86-edcd3215206a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -292,7 +294,7 @@ Robust performance and introduction to the structured singular value function
 Reachability of DT LTI systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap22))
+({{% resource_link ad9e1b5a-ebb9-9dde-71ba-1e744860bbbb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -316,7 +318,7 @@ CT reachability, canonical forms
 Observability
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap24))
+({{% resource_link 2f03f88e-1a71-4f3c-cdb0-b7b3f05a2c55 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -328,7 +330,7 @@ Observability
 Minimal state-space realization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap25))
+({{% resource_link 760782bd-5cee-facb-37bf-8719dc23dfcb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -340,7 +342,7 @@ Minimal state-space realization
 Balanced realization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap26))
+({{% resource_link 7f675402-9d69-45bd-3bdc-745080890bf8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -352,7 +354,7 @@ Balanced realization
 Poles and zeros of MIMO systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap27))
+({{% resource_link 8a801326-8491-f54f-d656-14f299a05290 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -364,7 +366,7 @@ Poles and zeros of MIMO systems
 Stabilization: state feedback
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap28))
+({{% resource_link 5e322437-1aa7-aba3-68b5-05ce8e473def "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -376,7 +378,7 @@ Stabilization: state feedback
 Observers, model-based controllers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap29))
+({{% resource_link 090f6b52-1366-aa32-16a8-97d0e1303d26 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -388,7 +390,7 @@ Observers, model-based controllers
 Minimality and stability of interconnected systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_241js11_chap30))
+({{% resource_link 5e41c2e2-87bd-e74f-5326-d258e89c951c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
