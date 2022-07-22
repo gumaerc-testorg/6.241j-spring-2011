@@ -5,6 +5,7 @@ file: /courses/6-241j-dynamic-systems-and-control-spring-2011/5e3224371aa7aba368
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_241JS11_chap28.pdf
 uid: 5e322437-1aa7-aba3-68b5-05ce8e473def
 ---
 This resource contains information related to stabilization: state feedback.
-

@@ -5,6 +5,7 @@ file: /courses/6-241j-dynamic-systems-and-control-spring-2011/95bf74f6518ebb3be7
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_241JS11_chap13.pdf
 uid: 95bf74f6-518e-bb3b-e79d-1748ca6c349c
 ---
 This resource contains information related to internal (lyapunov) stability.
-

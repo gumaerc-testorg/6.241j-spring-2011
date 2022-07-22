@@ -6,6 +6,7 @@ file: /courses/6-241j-dynamic-systems-and-control-spring-2011/ad9e1b5aebb99dde71
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT6_241JS11_chap22.pdf
 uid: ad9e1b5a-ebb9-9dde-71ba-1e744860bbbb
 ---
 This resource contains information related to reachability of DT LTI systems.
-

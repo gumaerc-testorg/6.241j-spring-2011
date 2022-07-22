@@ -5,6 +5,7 @@ file: /courses/6-241j-dynamic-systems-and-control-spring-2011/7f6754029d6945bd3b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_241JS11_chap26.pdf
 uid: 7f675402-9d69-45bd-3bdc-745080890bf8
 ---
 This resource contains information related to balanced realization.
-

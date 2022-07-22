@@ -6,6 +6,7 @@ file: /courses/6-241j-dynamic-systems-and-control-spring-2011/04fddfbcb1eb933ecc
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT6_241JS11_chap04.pdf
 uid: 04fddfbc-b1eb-933e-cca8-5dab8bfbb171
 ---
 This resource contains information related to matrix norms and singular value decomposition.
-

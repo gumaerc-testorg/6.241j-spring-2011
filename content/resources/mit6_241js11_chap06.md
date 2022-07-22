@@ -5,6 +5,7 @@ file: /courses/6-241j-dynamic-systems-and-control-spring-2011/042c2b4a13e0c19961
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_241JS11_chap06.pdf
 uid: 042c2b4a-13e0-c199-6113-084ff601f025
 ---
 This resource contains information related to dynamic models.
-

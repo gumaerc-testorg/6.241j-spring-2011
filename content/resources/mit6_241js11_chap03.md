@@ -6,6 +6,7 @@ file: /courses/6-241j-dynamic-systems-and-control-spring-2011/92942a9932b29c29e3
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT6_241JS11_chap03.pdf
 uid: 92942a99-32b2-9c29-e368-c174737390dc
 ---
 This resource contains information related to least squares solution of y = < A, x >.
-

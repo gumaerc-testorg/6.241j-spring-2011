@@ -5,6 +5,7 @@ file: /courses/6-241j-dynamic-systems-and-control-spring-2011/5cc176efa8422c7ccd
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_241JS11_chap20.pdf
 uid: 5cc176ef-a842-2c7c-cdb0-c96a2a31e1bc
 ---
 This resource contains information related to stability robustness.
-

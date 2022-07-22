@@ -6,6 +6,7 @@ file: /courses/6-241j-dynamic-systems-and-control-spring-2011/f5ef45e468ca752d18
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT6_241JS11_chap19.pdf
 uid: f5ef45e4-68ca-752d-181e-7682a6fe939b
 ---
 This resource contains information related to robust stability in SISO systems.
-

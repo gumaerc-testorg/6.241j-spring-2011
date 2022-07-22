@@ -6,6 +6,7 @@ file: /courses/6-241j-dynamic-systems-and-control-spring-2011/e93427e1e654f3c9fb
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT6_241JS11_chap21.pdf
 uid: e93427e1-e654-f3c9-fb86-edcd3215206a
 ---
 This resource contains information related to robust performance and introduction to the structured singular value function.
-

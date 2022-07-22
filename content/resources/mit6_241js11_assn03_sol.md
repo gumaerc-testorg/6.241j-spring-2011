@@ -6,6 +6,7 @@ file: /courses/6-241j-dynamic-systems-and-control-spring-2011/75908b66f1cb0a2c2e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT6_241JS11_assn03_sol.pdf
 uid: 75908b66-f1cb-0a2c-2e32-d72ec57361e5
 ---
 This resource contains solutions for exercises 3.2, 3.3, 4.1, 4.5, and 4.6.
-

@@ -5,6 +5,7 @@ file: /courses/6-241j-dynamic-systems-and-control-spring-2011/4113385467281cfe1e
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_241JS11_midterm.pdf
 uid: 41133854-6728-1cfe-1e14-9a5436b8e7f4
 ---
 This resource contains midterm exam.
-
