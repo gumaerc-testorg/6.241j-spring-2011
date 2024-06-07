@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions to midterm exam.
 file: /courses/6-241j-dynamic-systems-and-control-spring-2011/0203828c5571e4b3eb683b02744f3322_MIT6_241JS11_midterm_sol.pdf
+file_size: 265696
 file_type: application/pdf
 learning_resource_types:
 - Exams

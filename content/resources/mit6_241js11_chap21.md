@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to robust performance and
   introduction to the structured singular value function.
 file: /courses/6-241j-dynamic-systems-and-control-spring-2011/e93427e1e654f3c9fb86edcd3215206a_MIT6_241JS11_chap21.pdf
+file_size: 703375
 file_type: application/pdf
 learning_resource_types:
 - Readings
