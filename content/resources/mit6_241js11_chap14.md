@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to internal stability for
   LTI systems.
 file: /courses/6-241j-dynamic-systems-and-control-spring-2011/69f0c2bb46799fce14117b510d57cbf0_MIT6_241JS11_chap14.pdf
+file_size: 664546
 file_type: application/pdf
 learning_resource_types:
 - Readings
