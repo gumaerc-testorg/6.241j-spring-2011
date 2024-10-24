@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to poles and zeros of MIMO
   systems.
-file: /courses/6-241j-dynamic-systems-and-control-spring-2011/8a8013268491f54fd65614f299a05290_MIT6_241JS11_chap27.pdf
+file: /ol-ocw-studio-app/courses/6-241j-dynamic-systems-and-control-spring-2011/8a8013268491f54fd65614f299a05290_MIT6_241JS11_chap27.pdf
 file_size: 532170
 file_type: application/pdf
 learning_resource_types:
