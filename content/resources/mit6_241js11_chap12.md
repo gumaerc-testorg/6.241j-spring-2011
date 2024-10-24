@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to modal decomposition of
   state-space models.
-file: /courses/6-241j-dynamic-systems-and-control-spring-2011/0823bbd7302593caa272304158502589_MIT6_241JS11_chap12.pdf
+file: /ol-ocw-studio-app/courses/6-241j-dynamic-systems-and-control-spring-2011/0823bbd7302593caa272304158502589_MIT6_241JS11_chap12.pdf
 file_size: 585298
 file_type: application/pdf
 learning_resource_types:
