@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to stability robustness.
-file: /courses/6-241j-dynamic-systems-and-control-spring-2011/5cc176efa8422c7ccdb0c96a2a31e1bc_MIT6_241JS11_chap20.pdf
+file: /ol-ocw-studio-app/courses/6-241j-dynamic-systems-and-control-spring-2011/5cc176efa8422c7ccdb0c96a2a31e1bc_MIT6_241JS11_chap20.pdf
 file_size: 733151
 file_type: application/pdf
 learning_resource_types:

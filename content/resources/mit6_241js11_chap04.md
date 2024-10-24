@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to matrix norms and singular
   value decomposition.
-file: /courses/6-241j-dynamic-systems-and-control-spring-2011/04fddfbcb1eb933ecca85dab8bfbb171_MIT6_241JS11_chap04.pdf
+file: /ol-ocw-studio-app/courses/6-241j-dynamic-systems-and-control-spring-2011/04fddfbcb1eb933ecca85dab8bfbb171_MIT6_241JS11_chap04.pdf
 file_size: 723100
 file_type: application/pdf
 learning_resource_types:
