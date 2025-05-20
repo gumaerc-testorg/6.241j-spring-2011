@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to observability.
-file: /ol-ocw-studio-app/courses/6-241j-dynamic-systems-and-control-spring-2011/2f03f88e1a714f3ccdb0b7b3f05a2c55_MIT6_241JS11_chap24.pdf
+file: /courses/6-241j-dynamic-systems-and-control-spring-2011/2f03f88e1a714f3ccdb0b7b3f05a2c55_MIT6_241JS11_chap24.pdf
 file_size: 495071
 file_type: application/pdf
 learning_resource_types:
