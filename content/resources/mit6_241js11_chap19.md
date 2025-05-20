@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to robust stability in SISO
   systems.
-file: /ol-ocw-studio-app/courses/6-241j-dynamic-systems-and-control-spring-2011/f5ef45e468ca752d181e7682a6fe939b_MIT6_241JS11_chap19.pdf
+file: /courses/6-241j-dynamic-systems-and-control-spring-2011/f5ef45e468ca752d181e7682a6fe939b_MIT6_241JS11_chap19.pdf
 file_size: 757365
 file_type: application/pdf
 learning_resource_types:

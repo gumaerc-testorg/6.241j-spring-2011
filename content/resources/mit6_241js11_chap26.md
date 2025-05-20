@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to balanced realization.
-file: /ol-ocw-studio-app/courses/6-241j-dynamic-systems-and-control-spring-2011/7f6754029d6945bd3bdc745080890bf8_MIT6_241JS11_chap26.pdf
+file: /courses/6-241j-dynamic-systems-and-control-spring-2011/7f6754029d6945bd3bdc745080890bf8_MIT6_241JS11_chap26.pdf
 file_size: 449585
 file_type: application/pdf
 learning_resource_types:
