@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains final exam.
-file: /courses/6-241j-dynamic-systems-and-control-spring-2011/06b4a1dce336b9dfab14e749cff08ebb_MIT6_241JS11_final.pdf
+file: /ol-ocw-studio-app/courses/6-241j-dynamic-systems-and-control-spring-2011/06b4a1dce336b9dfab14e749cff08ebb_MIT6_241JS11_final.pdf
 file_size: 208841
 file_type: application/pdf
 learning_resource_types:
