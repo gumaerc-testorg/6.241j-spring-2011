@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to performance of feedback
   systems.
-file: /courses/6-241j-dynamic-systems-and-control-spring-2011/ffd08addc36bc0fd02586dd7624d9031_MIT6_241JS11_chap18.pdf
+file: /ol-ocw-studio-app/courses/6-241j-dynamic-systems-and-control-spring-2011/ffd08addc36bc0fd02586dd7624d9031_MIT6_241JS11_chap18.pdf
 file_size: 723497
 file_type: application/pdf
 learning_resource_types:
