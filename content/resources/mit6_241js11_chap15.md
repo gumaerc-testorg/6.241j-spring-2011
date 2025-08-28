@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to external input-output stability.
-file: /courses/6-241j-dynamic-systems-and-control-spring-2011/5b744a33f5db9b0cc70dbc04a9de5706_MIT6_241JS11_chap15.pdf
+file: /ol-ocw-studio-app/courses/6-241j-dynamic-systems-and-control-spring-2011/5b744a33f5db9b0cc70dbc04a9de5706_MIT6_241JS11_chap15.pdf
 file_size: 667045
 file_type: application/pdf
 learning_resource_types:

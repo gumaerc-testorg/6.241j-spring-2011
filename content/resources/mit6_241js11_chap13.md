@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to internal (lyapunov) stability.
-file: /courses/6-241j-dynamic-systems-and-control-spring-2011/95bf74f6518ebb3be79d1748ca6c349c_MIT6_241JS11_chap13.pdf
+file: /ol-ocw-studio-app/courses/6-241j-dynamic-systems-and-control-spring-2011/95bf74f6518ebb3be79d1748ca6c349c_MIT6_241JS11_chap13.pdf
 file_size: 715342
 file_type: application/pdf
 learning_resource_types:
